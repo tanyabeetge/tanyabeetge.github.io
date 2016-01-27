@@ -1,0 +1,34 @@
+header,
+nav,
+article,
+aside,
+figure,
+footer,
+blockquote,
+h1,
+h2,
+h3
+{
+    border:0px solid black;
+}
+aside.right{
+    width:125px;
+    float:right;
+}
+figure.left{
+    width:125px;
+    float:left;
+}
+
+h1 {
+    color: #992600;
+    background-color: #d2d9cc;
+}
+
+
+
+
+
+
+
+
